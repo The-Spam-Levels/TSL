@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Hz</div>
-                            <p>{{ level.hz || 'Free to Copy' }}</p>
+                            <p>{{ level.hz || 'CBF' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
