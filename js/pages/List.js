@@ -51,8 +51,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Hz</div>
-                            <p>{{ level.hz || 'CBF' }}</p>
+                            <div class="type-title-sm">hz</div>
+                            <p>{{ level.hz || '' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
