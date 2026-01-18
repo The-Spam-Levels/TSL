@@ -1,1 +1,18 @@
-
+{
+    "id": 130066356,
+    "name": "daquavious II",
+    "author": "powahkat",
+    "creators": ["powahkat"],
+    "verifier": "TraspGD",
+    "verification": "https://youtu.be/7-FajPmn6Hw",
+    "percentToQualify": 100,
+    "hz": "CBF",
+    "records": [
+        {
+            "user": "Couldbeyou",
+            "link": "https://youtu.be/3HItWPDLjBs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
