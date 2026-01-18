@@ -1,1 +1,18 @@
-
+{
+    "id": 130065995,
+    "name": "daquavious",
+    "author": "powahkat",
+    "creators": ["powahkat"],
+    "verifier": "Carmansaysman",
+    "verification": "https://youtu.be/ksgHvWTBkuw",
+    "percentToQualify": 100,
+    "hz": "60",
+    "records": [
+        {
+            "user": "Couldbeyou",
+            "link": "https://youtu.be/3HItWPDLjBs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
