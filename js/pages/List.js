@@ -115,7 +115,7 @@ export default {
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use tps bypass, this is cheating
                     </p>
                     <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
