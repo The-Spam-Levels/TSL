@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "hz": "CBF",
     "records": [
+        {
+            "user": "Jimrox12",
+            "link": "https://www.youtube.com/watch?v=Y3IL_IYDoRw",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
