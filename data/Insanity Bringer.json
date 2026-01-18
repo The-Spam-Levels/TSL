@@ -9,6 +9,12 @@
     "hz": "CBF",
     "records": [
         {
+            "user": "Aquamarine",
+            "link": "https://www.youtube.com/watch?v=Ii6SSe8httE",
+            "percent": 100,
+            "hz": 60
+        },        
+        {
             "user": "Carmansaysman",
             "link": "https://www.youtube.com/watch?v=Gy5AonrrBEE",
             "percent": 100,
