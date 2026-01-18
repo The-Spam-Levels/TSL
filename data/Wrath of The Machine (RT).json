@@ -3,17 +3,11 @@
     "name": "Wrath of The Machine (RT)",
     "author": "angopro77",
     "creators": ["angopro77"],
-    "verifier": "angopro77",
-    "verification": "https://youtu.be/UtvwwIVK1yg",
+    "verifier": "Carmansaysman",
+    "verification": "https://youtu.be/kKgBd-eRnHA",
     "percentToQualify": "100",
     "hz": "60",
     "records": [
-        {
-            "user": "Carmansaysman",
-            "link": "https://youtu.be/kKgBd-eRnHA",
-            "percent": 100,
-            "hz": 60
-        },    
         {
             "user": "Couldbeyou",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
