@@ -1,1 +1,19 @@
+{
+    "id": 129963781,
+    "name": "Super 67 Spam",
+    "author": "TuscanyJack2012",
+    "creators": ["TuscanyJack2012"],
+    "verifier": "TraspGD",
+    "verification": "https://youtu.be/1OIz52-v25E",
+    "percentToQualify": 100,
+    "hz": "CBF",
+    "records": [
+        {
+            "user": "Couldbeyou",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
 
