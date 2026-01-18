@@ -8,8 +8,14 @@
     "percentToQualify": "100",
     "hz": "60",
     "records": [
-        {
+             {
             "user": "Carmansaysman",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+             
+             {,
+            "user": "Couldbeyou",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 60
