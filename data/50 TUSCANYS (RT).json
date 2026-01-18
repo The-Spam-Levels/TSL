@@ -1,1 +1,18 @@
-
+{
+    "id": 131640228,
+    "name": "50 TUSCANYS",
+    "author": "TuscanyJack2012",
+    "creators": ["TuscanyJack2012"],
+    "verifier": "Carmansaysman",
+    "verification": "https://youtu.be/_CbBIyrYZcc",
+    "percentToQualify": 100,
+    "hz": "60",
+    "records": [
+        {
+            "user": "Couldbeyou",
+            "link": "https://youtu.be/3HItWPDLjBs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
