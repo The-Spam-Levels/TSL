@@ -1,1 +1,18 @@
-
+{
+    "id": 130067466,
+    "name": "25 TUSCANYS",
+    "author": "powahkat",
+    "creators": ["powahkat"],
+    "verifier": "WilliamPlayz25",
+    "verification": "https://youtu.be/YmqcpulhFss",
+    "percentToQualify": 100,
+    "hz": "CBF",
+    "records": [
+        {
+            "user": "Carmansaysman",
+            "link": "https://www.youtube.com/watch?v=Gy5AonrrBEE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
