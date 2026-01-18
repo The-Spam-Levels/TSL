@@ -1,0 +1,18 @@
+{
+    "id": 130067466,
+    "name": "25 TUSCANYS",
+    "author": "TraspGD",
+    "creators": ["TraspGD"],
+    "verifier": "TraspGD",
+    "verification": "https://youtu.be/YmqcpulhFss",
+    "percentToQualify": 100,
+    "hz": "60",
+    "records": [
+        {
+            "user": "Carmansaysman",
+            "link": "https://youtu.be/3HItWPDLjBs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
