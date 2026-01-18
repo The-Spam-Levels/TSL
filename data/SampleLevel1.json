@@ -1,7 +1,7 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
+    "id": 131623979,
+    "name": "Clock Tutorial",
+    "author": "TuscanyJack2012",
     "creators": ["Creator1", "Creator2", "Creator3"],
     "verifier": "Verifier",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
@@ -12,7 +12,7 @@
             "user": "Sample_Victor_1",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
+            "hz": 90
         }
     ]
 }
