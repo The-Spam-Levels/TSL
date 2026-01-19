@@ -1,1 +1,12 @@
-
+{
+    "id": 130466552,
+    "name": "K55 Verify",
+    "author": "DavelMF",
+    "creators": ["DavelMF"],
+    "verifier": "TraspGD",
+    "verification": "https://www.youtube.com/watch?v=1MJOMDgdZiU",
+    "percentToQualify": 100,
+    "hz": "66.67",
+    "records": [
+    ]
+}
