@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "hz": "100",
     "records": [
+        {
+            "user": "WilliamPlayz25",
+            "link": "Youtube.com",
+            "percent": 100,
+            "hz": 100
+        }
     ]
 }
 
