@@ -1,1 +1,12 @@
-
+{
+    "id": 131734555,
+    "name": "The CataBobs",
+    "author": "jiayefr",
+    "creators": ["jiayefr"],
+    "verifier": "jiayefr",
+    "verification": "https://www.youtube.com/watch?v=g_tNVVLp7zs",
+    "percentToQualify": 100,
+    "hz": "240/360",
+    "records": [
+    ]
+}
