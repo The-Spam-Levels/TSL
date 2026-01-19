@@ -25,6 +25,12 @@
             "link": "youtube.com",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "jiayefr",
+            "link": "https://www.youtube.com/watch?v=NtsSCdCvjl0",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
