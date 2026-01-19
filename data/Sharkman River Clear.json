@@ -7,7 +7,13 @@
     "verification": "https://www.youtube.com/watch?v=1MJOMDgdZiU",
     "percentToQualify": 100,
     "hz": "CBF",
-    "records": [https://youtube.com/watch?v=qW8U4JN5xqs&si=JZie1ChyJNidSl5V
+    "records": [
+        {
+            "user": "WilliamPlayz25",
+            "link": "hhttps://youtube.com/watch?v=qW8U4JN5xqs&si=JZie1ChyJNidSl5V",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
 
