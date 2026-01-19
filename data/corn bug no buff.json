@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "hz": "CBF",
     "records": [
+        {
+            "user": "Carmansaysman",
+            "link": "https://youtu.be/gDpf61JX7lw",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
