@@ -13,6 +13,12 @@
             "link": "Youtube.com",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "TraspGD",
+            "link": "https://www.youtube.com/watch?v=sFjnneiwg28",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
