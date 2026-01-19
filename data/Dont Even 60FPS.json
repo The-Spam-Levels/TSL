@@ -1,1 +1,12 @@
-
+{
+    "id": 131714743,
+    "name": "Dont Even 60FPS",
+    "author": "TuscanyJack2012",
+    "creators": ["TuscanyJack2012"],
+    "verifier": "Carmansaysman",
+    "verification": "https://youtu.be/BQ0NqFUs9Lc",
+    "percentToQualify": 100,
+    "hz": "60",
+    "records": [
+    ]
+}
