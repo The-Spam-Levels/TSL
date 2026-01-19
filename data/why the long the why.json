@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": "CBF",
     "records": [
+        {
+            "user": "WilliamPlayz25",
+            "link": "Youtube.com",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
