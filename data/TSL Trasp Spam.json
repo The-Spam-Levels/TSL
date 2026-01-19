@@ -1,1 +1,12 @@
-
+{
+    "id": 131645016,
+    "name": "TSL Trasp Spam",
+    "author": "jiayefr",
+    "creators": ["jiayefr"],
+    "verifier": "jiayefr",
+    "verification": "https://www.youtube.com/watch?v=YHGKUrU3WyM",
+    "percentToQualify": 100,
+    "hz": "64",
+    "records": [
+    ]
+}
