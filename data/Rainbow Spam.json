@@ -1,1 +1,12 @@
-
+{
+    "id": 131774405,
+    "name": "Rainbow Spam",
+    "author": "Jiayefr",
+    "creators": ["Jiayefr"],
+    "verifier": "Jiayefr",
+    "verification": "https://www.youtube.com/watch?v=dmlcCdoxzyw",
+    "percentToQualify": 100,
+    "hz": "60",
+    "records": [
+    ]
+}
