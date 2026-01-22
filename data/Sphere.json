@@ -6,13 +6,13 @@
     "verifier": "jiayefr",
     "verification": "https://www.youtube.com/watch?v=eBxhwmqgJiE",
     "percentToQualify": 100,
-    "hz": "240/360",
+    "hz": "60",
     "records": [
         {
             "user": "Carmansaysman",
             "link": "https://youtu.be/4UakIBBlQNs",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
