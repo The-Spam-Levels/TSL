@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "hz": "CBF",
     "records": [
+        {
+            "user": "TraspGD",
+            "link": "https://www.youtube.com/watch?v=u1tyii3qZvI",
+            "percent": 100,
+            "hz": 720
+        }
     ]
 }
