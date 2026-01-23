@@ -12,7 +12,13 @@
             "user": "jiayefr",
             "link": "https://www.youtube.com/watch?v=epGcpObGQcU",
             "percent": 100,
-            "hz": 60
+            "hz": 240
+        },
+        {
+            "user": "TraspGD",
+            "link": "https://www.youtube.com/watch?v=sFjnneiwg28",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
