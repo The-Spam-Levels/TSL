@@ -1,1 +1,18 @@
-
+{
+    "id": 132097241,
+    "name": "daquavious III",
+    "author": "jiayefr",
+    "creators": ["jiayefr"],
+    "verifier": "jiayefr",
+    "verification": "https://www.youtube.com/watch?v=vUo6EFn9xYU",
+    "percentToQualify": 100,
+    "hz": "240/360",
+    "records": [
+        {
+            "user": "Carmansaysman",
+            "link": "https://youtu.be/LmXbwRHlpHw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
