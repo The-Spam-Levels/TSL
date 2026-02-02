@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "hz": "60",
     "records": [
+        {
+            "user": "jiayfr",
+            "link": "https://www.youtube.com/watch?v=RlktjV-xUaQ",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
 
