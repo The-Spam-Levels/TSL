@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=u1tyii3qZvI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Dan",
+            "link": "https://youtu.be/5WqwRMnUyBg",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
